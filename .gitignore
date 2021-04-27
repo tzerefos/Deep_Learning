@@ -2,3 +2,4 @@
 venv
 datasets/*
 !datasets/.gitkeep
+!datasets/ct_scan/*
